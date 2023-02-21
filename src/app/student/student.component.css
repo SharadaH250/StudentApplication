@@ -1,0 +1,25 @@
+
+  .card{
+    background: url("https://c4.wallpaperflare.com/wallpaper/221/505/111/hands-paint-children-happiness-wallpaper-preview.jpg");
+    /* background-repeat: no-repeat; */
+     height:700px;
+     background-position: fixed;
+    background-size:cover;
+    /* background-image: linear-gradient(rgb(247, 247, 76),pink); */
+
+}
+
+.table{
+  border-color: black;
+  border-style: groove;
+}
+  /* .card-body{
+    background-color: lightpink;
+    opacity: .7;
+  } */
+
+  td{
+    font-weight:400;
+  }
+
+
